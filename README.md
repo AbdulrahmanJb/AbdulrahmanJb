@@ -1,45 +1,43 @@
-# Hi, I'm Abdulrahman
+# Abdulrahman Jaber
 
-Full-stack developer building practical web applications with Angular, ASP.NET Core, C#, Entity Framework Core, and SQL Server.
+Full-stack developer focused on practical business web applications with Angular, ASP.NET Core, C#, Entity Framework Core, and SQL Server.
 
-## What I Build
+I build applications that connect polished user interfaces with useful backend workflows: admin dashboards, content management, consultation/request flows, authentication, database persistence, and deployment-ready documentation.
 
-- Full-stack business applications with clean frontend/backend separation.
-- Responsive Angular interfaces with API integration.
-- ASP.NET Core APIs with authentication, database persistence, and admin workflows.
-- Arabic/English user experiences with RTL support.
-
-## Featured Projects
+## Featured Work
 
 ### Law Firm Website
 
-Arabic-first law office website with a public marketing experience, consultation requests, blog and video content, admin dashboard, visit tracking, and production deployment notes.
+Production law office website with an Arabic-first public experience, English language support, consultation requests, blog and video content, admin dashboard, visit tracking, SEO metadata, and deployment notes.
 
-Tech: Angular, TypeScript, SCSS, ASP.NET Core, C#, Entity Framework Core, SQL Server
-
-Repository: https://github.com/AbdulrahmanJb/law-firm-website
+- Live demo: https://alfaifi-law.com
+- Repository: https://github.com/AbdulrahmanJb/law-firm-website
+- Stack: Angular, TypeScript, SCSS, ASP.NET Core, C#, Entity Framework Core, SQL Server
 
 ### Helpdesk
 
-Helpdesk/ticketing application focused on support workflows and backend service design.
+Backend-focused helpdesk API project for support workflows, service organization, OpenAPI setup, and .NET project structure.
 
-Repository: https://github.com/AbdulrahmanJb/Helpdesk
+- Repository: https://github.com/AbdulrahmanJb/Helpdesk
+- Stack: ASP.NET Core, C#/.NET 10, OpenAPI, .NET test project
 
-## Tech Stack
+## Technical Strengths
 
 ```text
-Frontend: Angular, TypeScript, HTML, SCSS
-Backend:  ASP.NET Core, C#, Entity Framework Core
-Database: SQL Server
-Tools:    Git, GitHub, npm, .NET CLI, Visual Studio
+Frontend:  Angular, TypeScript, HTML, SCSS, responsive UI, RTL/LTR layouts
+Backend:   ASP.NET Core, C#, REST APIs, authentication, admin workflows
+Database:  Entity Framework Core, SQL Server
+Tooling:   Git, GitHub, npm, .NET CLI, Visual Studio
+Practices: API documentation, deployment notes, production configuration, README writing
 ```
 
-## Currently Improving
+## What I Care About
 
-- Production-ready project documentation.
-- Test coverage and CI checks.
-- API validation, error handling, and security hardening.
+- Building software that solves real business workflows.
+- Writing clear documentation so projects are easy to evaluate and run.
+- Keeping frontend and backend responsibilities organized.
+- Improving toward production-ready quality: validation, tests, CI, security, and maintainability.
 
 ## Contact
 
-GitHub: https://github.com/AbdulrahmanJb
+- GitHub: https://github.com/AbdulrahmanJb
